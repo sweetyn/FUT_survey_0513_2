@@ -1,0 +1,9 @@
+######################################################
+################### FUT INFO #########################
+######################################################
+ModelName=D850
+SoftwareVersion=v09a
+SettingsFUTParticipantName=John Smith
+SettingsFUTParticipantEmail=lgtestjwp@gmail.com
+SurveyQuestionFile=D850FUTQuestionnaire.txt
+######################################################

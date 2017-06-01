@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:rowCount="5" >
+        
+        <TextView
+            android:text="Model Name"
+            android:layout_gravity="right" />
+        
+        <EditText 
+            android:id="@+id/et_model_name"
+            android:hint="Enter the model name"
+            android:layout_gravity="fill_horizontal"/>
+        
+        <TextView
+            android:text="SW version"
+            android:layout_gravity="right" />
+        
+        <EditText
+            android:id="@+id/et_sw_version"
+            android:hint="Enter the SW version"
+            android:layout_gravity="fill_horizontal"/>
+        
+        <TextView
+            android:text="Participant Name"
+            android:layout_gravity="right"  />
+        
+        <EditText
+            android:id="@+id/et_participant_name" 
+            android:hint="Enter first and last name"
+            android:layout_gravity="fill_horizontal" />
+        
+        <TextView
+            android:text="NVG Email"
+            android:layout_gravity="right" />
+        
+        <EditText
+            android:id="@+id/et_nvg_email"
+            android:hint="Enter NVG email"
+            android:layout_gravity="fill_horizontal" />
+      
+
+    </GridLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/bt_save_setting"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            android:layout_gravity="center" />
+
+    </LinearLayout>
+
+</LinearLayout>

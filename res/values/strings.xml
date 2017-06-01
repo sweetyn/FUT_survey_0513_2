@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NVG FUT Survey</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="new_button">New</string>
+    <string name="main_title">Welcome to FUT survey</string>
+    <string name="continue_button">Continue</string>
+    <string name="setting_button">Setting</string>
+    <string name="str_btn_back">Back</string>
+    <string name="str_btn_next">Next</string>
+    <string name="title_activity_survey">Survey Questions</string>
+    <string name="error">ERROR</string>
+    <string name="ok_button">OK</string>
+    <string name="cannot_open_file">Cannot open questionnaire file.  Please check if the file exists in proper location.</string>
+	<string name="send_email_survey">Survey has completed.  Do you want to send the result to NVG via email?</string>
+</resources>

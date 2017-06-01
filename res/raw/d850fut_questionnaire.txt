@@ -1,0 +1,19 @@
+######################################################
+################# D850 Questionnaire #################
+######################################################
+Question=How would you rate this phone? (in scale of 1-5, 5 being the most positive)
+Answer=1
+Comment= I like this phone
+******************************************************
+Question=What is your most favorite feature on this phone?
+Answer=2
+Comment= I like this phone2
+******************************************************
+Question=What do you like the least about this phone?
+Answer=3
+Comment=I like this phone3
+******************************************************
+Question=Would you purchase this phone?
+Answer=4
+Comment=I like this phone4
+######################################################
